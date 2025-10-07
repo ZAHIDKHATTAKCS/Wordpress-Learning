@@ -294,4 +294,5 @@ when you go to all posts page in dashboard.
 - the maximum size depends on your server.
 - we can also edit the image using media library like if we wants to rotate the image or if we wants to flip the image or if we wants to crop the image etc.
 - we can edit the image by selecting the image and click on edit image button at the bottom of the image that are selected.
-- 
+- we can also filter out the data of audio , video , images etc in the Media Library. we can also see the option of **unattached** that means that these media files are not attached with any post and pages.
+- **Note** keep in mind that without losing the quality of the image always try to upload the smallest size of the image in the media library this will improve your website speed.
