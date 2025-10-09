@@ -296,3 +296,19 @@ when you go to all posts page in dashboard.
 - we can edit the image by selecting the image and click on edit image button at the bottom of the image that are selected.
 - we can also filter out the data of audio , video , images etc in the Media Library. we can also see the option of **unattached** that means that these media files are not attached with any post and pages.
 - **Note** keep in mind that without losing the quality of the image always try to upload the smallest size of the image in the media library this will improve your website speed.
+
+##  <p align='center'>Topic : 18</p>
+
+#### <p>WordPress Users and Roles</p>
+
+- if we have 2 users 1st is **Zahid** and 2nd is **Azhar** so the **Zahid** is responsible for all the website frontend related tasks and **Azhar** is only responsible for the blog post of the website. So for this we can give specify the Users Roles like the **Zahid** have the access for the frontend tools and **Azhar** has the access to all the tools related to the blog.
+
+- There are 5 Rules in Wordpress by default
+
+1. **`Administrator Rule`** has all the access mean administrator can change anything and everything. Administrator can change any settings , can add content to your website and he can delete any content . Administrator can delete his own content and can delete other uses content too. Administrator can Add new users and can delete old user and can change the Profile settings of other users.
+2. **`Editor Rule`** Editor can write content on your website and review the content of the other users, Editor can manage his own content and other users content as well like they can read write the content of the other users and editor can delete the content of other users as well as editor can manage the content of the other users.
+3. **`Author Rule`** Author can write only his own content and author can publish his own content unlike the Editor rule **Author** can only make changes in his own content.
+4. **`Contributor Rule`** can only write the content and edit the content **Contributor** can't publish the content. if you hired a new content writer or editor so give the rule of Contributor.
+5. `Subscriber Rule` Subscriber can manage their own profile and he can only read your content and the Subscriber can only read the content and manage his own profile. 
+
+- **`Note`** in order to create new user just go to add users and than click on add a new user and give credentials and set user role and than create it. 
