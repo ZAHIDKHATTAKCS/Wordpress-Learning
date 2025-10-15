@@ -312,3 +312,21 @@ when you go to all posts page in dashboard.
 5. `Subscriber Rule` Subscriber can manage their own profile and he can only read your content and the Subscriber can only read the content and manage his own profile. 
 
 - **`Note`** in order to create new user just go to add users and than click on add a new user and give credentials and set user role and than create it. 
+
+##  <p align='center'>Topic : 19</p>
+
+#### <p>Wordpress Codex</p>
+
+- **Wordpress Codex** is the full documentation of wordpress where we can learn and read about which is the latest version of wordpress and we can learn about the themes in wordpress plugins in wordpress and each and everything that is the part of the wordpress you can learn it from here.
+- it like a community where you can get all the information about the wordpress. Whenever you want to learn anything in wordpress just go for the Wordpress Codex you will get the latest and updated information.
+- in order to access the wordpress codex for it you have to go to **[Wordpress.org documentation](https://wordpress.org/documentation/)** you will see all the details here.
+
+##  <p align='center'>Topic : 20</p>
+
+#### <p>Wordpress : Post Revisions</p>
+
+- **Post Revision** is like the control+Z function in wordpress for the Post , like if you edit a blog post 5 times , wordpress will keep all versions as revision. Post revision is not only for the posts its also for the pages.
+- in order to access the revision you have to go to the specific post or page so go to edit and you will see on the right side panel the option of revisions along with the count of 14 time or as much you make changes it will increase.
+- you can check out who made the changes.
+- In order to apply the old revision you have to go to the post and select click on the revisions and code will be open and a selection panel will be open and select an old version and click on restore this version.
+- **Note** the revision option will not appear when you first time create a page or first time you create a post, And keep in mind you post or page not have more than 3 revisions.
