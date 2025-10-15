@@ -330,3 +330,14 @@ when you go to all posts page in dashboard.
 - you can check out who made the changes.
 - In order to apply the old revision you have to go to the post and select click on the revisions and code will be open and a selection panel will be open and select an old version and click on restore this version.
 - **Note** the revision option will not appear when you first time create a page or first time you create a post, And keep in mind you post or page not have more than 3 revisions.
+
+##  <p align='center'>Topic : 21</p>
+
+#### <p>what are Comments in Wordpress : </p>
+
+- we can enable the comments in Wordpress and we can also disable it in order to enable the comments on the post in wordpress we can enable it from Gutenberg Menu.
+- In order to enable it from the dashboard we have to go a page where we want to add comments section just select the page and edit it as a gutenberg Menu so search for comment block and add it in the page 
+- after publish the page you will the comment section in the page and if someone sends the comments so you can see it from your dashboard comments option and you will see filters of Mine, All, Pending, Approved , Spam and Trash comments etc where you can see who comment this and what is the comment and what is his/her name etc. you can approve the comments disapprove the comment etc.
+
+- **````Note````** the admin can also reply to any comment from the dashboard. and you can also close the comments on article by using comment disable option from the dashboard.
+
