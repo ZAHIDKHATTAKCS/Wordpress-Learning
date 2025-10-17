@@ -341,3 +341,17 @@ when you go to all posts page in dashboard.
 
 - **````Note````** the admin can also reply to any comment from the dashboard. and you can also close the comments on article by using comment disable option from the dashboard.
 
+##  <p align='center'>Topic : 22</p>
+
+#### <p>Introduction to Menus in Wordpress : </p>
+
+- in simple words menu is in the top of the website that is used to navigate the users to the other pages.
+- In order to add menu in wordpress we have to go to the wordpress dashboard and go to menus there in dashboard.
+- **Note** if you can't find the Menus option so it will be according to the theme if theme doesn't having the default menus so the **Menus** option will not appearing, if you installed a new theme so it will be appear its depends on theme.
+- you can add menu on different locations like in footer in side or in the topbar etc, you can also create sub menu inside the main menu also.
+
+##  <p align='center'>Topic : 23</p>
+
+#### <p>Introduction to Wordpress Themes: </p>
+
+  - 
