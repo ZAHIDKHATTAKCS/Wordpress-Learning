@@ -378,3 +378,52 @@
 - The Theme should be compatible, like the theme should be browser compatible like it should be open on chrome or in safari or in opera etc
 - Not use a theme that has own theme builder,
 - check how much long the last update in the theme its because of if the theme is updated its means that the developer is continuously updating the theme.
+
+
+## <p align='center'>Topic : 25</p>
+
+#### <p>Installing wordpress theme using various Methods: </p>
+
+- you can install themes by going in to the dashboard and you can select the theme option there in the dashboard when you click on it you will only see the pre installed themes there.
+- you can also install new themes by click on add new theme where you can filter the search about themes. this is the way of how you can install the theme using wordpress directory.
+
+- you can also download the wordpress theme and you can add it into your wordpress dashboard by clicking on upload theme where we can upload our downloaded theme or purchased theme.
+- **Note** when you are uploading a custom theme you should have to upload the theme in zip file because wordpress only accept the zip file.
+- we can also install our theme by moving our files to the directory folder where our wordpress theme are saved. like if we download a theme which named "abc" so for installing theme using theme files so go to partition where localhost is installed and go to your project folder for example for now my project name is "zahid" so just extract the theme and copy it to the folder "zahid" and where you will see **wp-content**  inside this folder you will see themes folder so paste it in the themes folder so it will installed in your project manually. 
+- for some reason if you can't find themes in the wordpress directory from the dashboard or get an error you can also install it from the **[Wordpress.org](https://wordpress.org/themes/)**
+- sometimes when you download a theme or install a theme may be its not look like the image you see in the demo that is not a bug the theme sometimes give you an option of installing it and may sometimes you have to install it by manually
+
+## <p align='center'>Topic : 26</p>
+
+#### <p>Free vs Paid Themes in Wordpress </p>
+
+1. **Free Theme** Some themes are free to use like you can use all the features for free.
+2. **Partially Free Theme** these are the themes that are free to use but you can use only basic features and you have to pay for advance features.
+3. **Paid Theme** these are the themes that are fully paid you can even don't see the demo of it. Paid themes are having the advance features its time saving you can save your time by using the paid theme while the free theme has not having the advance features. in paid theme you are a click away to install all the things but in free theme you have to develop all the things by yourself. There is an advantage of paid theme that you have the technical support of it for like 2 months or 3 months means that if you pay a theme and they will support you like they will contact you if you have any problem you can also contact for any queries. In paid theme they give you give you regular updates for the one year.
+
+- **Note** for free theme we can look at **Wordpress.org/themes** and for paid we can search on ThemeForest , Mojo Marketplace
+
+## <p align='center'>Topic : 27</p>
+
+#### <p>Wordpress Theme Customizer </p>
+
+- We can modify the theme by using customizer , by customizer we can Header Settings, Color Settings, Logo Settings, and footer settings etc
+- in order to access the theme customizer we can go to customizer option we we open the frontend of the website.
+- you can also access the customizer by going to dashboard and hover over on the appearance and go to customize.
+- By using customizer we can enable dark mode, change background wallpaper and set the site title and site colors etc
+
+## <p align='center'>Topic : 28</p>
+
+#### <p>Plugins in Wordpress Introduction : </p>
+
+- Wordpress has by default functionalities but what if we need some extra functionalities. for such functionalities we can add the plugins in our wordpress projects.
+- Plugin is the standalone software we can say but that is used for adding new functionality.
+- if a functionality need that is not either in the plugin in wordpress in free plugins and nor in the paid plugin so for it plugin developers or theme developer can create it that is called custom plugin.
+
+## <p align='center'>Topic : 29</p>
+
+#### <p> Process of choosing a good plugin </p>
+
+- For a good plugin first we have to see how much times it installed like how much numbers are showing there like how much peoples are using it. if it high so you can install it
+- after this you have to check the reviews if the reviews are great which means you can use it easily.
+- 
